@@ -1,0 +1,6 @@
+3 2 3000 2 0 //3junctions,2streets,3000seconds,2cars,startingat0.
+48.8582 2.2945 //Coordinatesofthefirstjunction.
+50.0 3.09 //Coordinatesofthesecondjunction.
+51.424242 3.02 //Coordinatesofthethirdjunction.
+0 1 1 30 250 //Streetfromfirstjunctiontosecondjunction.
+1 2 2 45 200 //Streetfromsecondjunctiontothirdjunction.
