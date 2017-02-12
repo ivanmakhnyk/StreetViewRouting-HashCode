@@ -9,3 +9,7 @@ Here you can see my solution for this task.
 
 Graph result of task: map and car tracks
 ![Map with Car Tracks](https://cdn.rawgit.com/ivanmakhnyk/StreetViewRouting-HashCode/master/cars.svg "Map with Car Tracks")
+
+
+Map from task
+![Map](https://cdn.rawgit.com/ivanmakhnyk/StreetViewRouting-HashCode/master/map.svg "Map")
