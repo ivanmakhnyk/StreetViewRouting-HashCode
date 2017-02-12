@@ -8,6 +8,7 @@ Task description [hashcode2014_final_task.pdf](https://hashcode.withgoogle.com/2
 Here you can see my solution for this task.
 
 My result is 1487405 Score
+
 [Submission file](output.txt)
 
 Graph result of task: map and car tracks
