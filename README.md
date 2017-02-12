@@ -6,6 +6,8 @@
 Task description [hashcode2014_final_task.pdf](https://hashcode.withgoogle.com/2014/tasks/hashcode2014_final_task.pdf) 
 
 Here you can see my solution for this task.
+My result is 1487405 Score
+
 
 Graph result of task: map and car tracks
 ![Map with Car Tracks](https://cdn.rawgit.com/ivanmakhnyk/StreetViewRouting-HashCode/master/cars.svg "Map with Car Tracks")
@@ -13,3 +15,5 @@ Graph result of task: map and car tracks
 
 Map from task
 ![Map](https://cdn.rawgit.com/ivanmakhnyk/StreetViewRouting-HashCode/master/map.svg "Map")
+
+
