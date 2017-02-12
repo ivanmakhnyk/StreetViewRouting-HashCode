@@ -14,6 +14,6 @@ Graph result of task: map and car tracks
 
 
 Map from task
-![Map](https://cdn.rawgit.com/ivanmakhnyk/StreetViewRouting-HashCode/master/map.svg "Map")
+![Map with colored distance to initial point](https://cdn.rawgit.com/ivanmakhnyk/StreetViewRouting-HashCode/master/map.svg "Map")
 
 
