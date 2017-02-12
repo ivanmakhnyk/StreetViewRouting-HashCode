@@ -138,7 +138,6 @@ public class App {
 
 	private static void outputResult() {
 		// Submission file output
-		System.out.println("*********************** Submission file content [BEGIN] ****************************");
 		StringBuffer sb = new StringBuffer();
 		sb.append(CARS).append("\n");// cars count
 		for (int carIndex = 0; carIndex < CARS; carIndex++) {
@@ -147,8 +146,6 @@ public class App {
 				sb.append(c.to).append("\n");// junction
 			}
 		}
-		System.out.println(sb.toString());
-		System.out.println("***********************  Submission file content [END]  ****************************");
 		//save to output file
 		try (PrintWriter out = new PrintWriter("output.txt")) {
 			out.println(sb.toString());
@@ -375,11 +372,6 @@ public class App {
 
 		transformer.transform(source, result);
 		fos.close();
-
-		SVGGraphics2D svgGenerator = new SVGGraphics2D(doc);
-		Writer out = new FileWriter("drawTest.svg");
-		svgGenerator.stream(out, true);
-		out.close();
 	}
 
 	public static int isUnderCar(Integer streetIndex) {
